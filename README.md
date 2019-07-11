@@ -1,1 +1,2 @@
-# Body-Fat-Prediction
+# BodyFat
+STAT628 Module1
